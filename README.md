@@ -1,7 +1,7 @@
 # Apache PySpark
 ## Learning PySpark
 
-I did this course from LinkedIn Learning - https://www.linkedin.com/learning/apache-pyspark-by-example/apache-pyspark?u=89160817.
+I used Google Colaboratory that uses Jupiter notebooks as an online environment to learn PySpark.
 
 Learning objectives
 * Benefits of the Apache Spark ecosystem
@@ -10,4 +10,8 @@ Learning objectives
 * Leveraging built-in Spark functions
 * Creating your own functions in Spark
 * Working with Resilient Distributed Datasets (RDDs)
+
+
+LinkedIn Learning - https://www.linkedin.com/learning/apache-pyspark-by-example/apache-pyspark?u=89160817.
+
 
